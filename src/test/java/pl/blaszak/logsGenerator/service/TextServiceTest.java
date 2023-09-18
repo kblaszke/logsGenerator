@@ -2,6 +2,7 @@ package pl.blaszak.logsGenerator.service;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import pl.blaszak.logsGenerator.util.LogsGeneratorUtils;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package pl.blaszak.logsGenerator.service;
+package pl.blaszak.logsGenerator.util;
 
 import org.springframework.util.ResourceUtils;
 
